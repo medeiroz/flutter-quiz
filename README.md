@@ -7,4 +7,4 @@ Quiz make with Flutter + Dependency Injection
 
 
 # Preview
-insert imge here
+<img src="https://raw.githubusercontent.com/medeiroz/flutter-quiz/main/.github/screenshot-1.png" width="250"/>
