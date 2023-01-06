@@ -3,7 +3,7 @@ Flutter study case
 Quiz make with Flutter + Dependency Injection
 
 # Download
-[Download](http://playstore.com/download)
+[Download](https://play.google.com/store/apps/details?id=com.medeiroz.flutter_quiz)
 
 
 # Preview
